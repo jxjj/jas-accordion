@@ -1,0 +1,15 @@
+{
+	"name": "jas-accordion",
+	"version": "1.0.0",
+	"description": "",
+	"main": "main.js",
+	"scripts": {
+		"start": "browser-sync start --server --files \"*.css,*.js,*.html\"",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "James Johnson <johnsojr@gmail.com> (https://james.mn)",
+	"license": "MIT",
+	"devDependencies": {
+		"browser-sync": "^2.23.6"
+	}
+}
